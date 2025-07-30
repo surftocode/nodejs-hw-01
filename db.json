@@ -1,0 +1,37 @@
+[
+  {
+    "id": "72c92657-a616-448d-91f4-f9f3ad8507df",
+    "name": "Joe O'Reilly",
+    "phone": "(385) 436-7686",
+    "email": "Adolph.Tremblay@yahoo.com",
+    "job": "Dynamic Functionality Facilitator"
+  },
+  {
+    "id": "55207bea-d71f-493c-bf76-93553f30ab89",
+    "name": "Ms. Elena Leuschke",
+    "phone": "727.789.7190 x26720",
+    "email": "Green.Stokes35@hotmail.com",
+    "job": "Legacy Integration Officer"
+  },
+  {
+    "id": "efac2a73-614c-4029-b1fb-a1de011fc051",
+    "name": "Tommy Shanahan",
+    "phone": "1-838-790-8315 x986",
+    "email": "Jerrold49@yahoo.com",
+    "job": "Global Configuration Developer"
+  },
+  {
+    "id": "1719bf16-37d0-4021-8bbf-44aa52119618",
+    "name": "Patti Ryan",
+    "phone": "843-396-6042 x59040",
+    "email": "Dane.Mann@hotmail.com",
+    "job": "Corporate Interactions Developer"
+  },
+  {
+    "id": "cdcdc8cf-96ab-41da-9db2-f08c95dfe2b7",
+    "name": "Patti Shanahan",
+    "phone": "(779) 713-5280",
+    "email": "Lelah_Hansen95@yahoo.com",
+    "job": "Regional Solutions Officer"
+  }
+]
