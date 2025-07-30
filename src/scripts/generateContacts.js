@@ -1,9 +1,5 @@
-import fs from 'fs/promises';
 import { createFakeContact } from '../utils/createFakeContact.js';
-import path from 'path';
 import { writeContacts } from '../utils/writeContacts.js';
-
-// const contactsPath = path.resolve('db.json');
 
 const generateContacts = async (number) => {
   const newContacts = [];
@@ -12,11 +8,6 @@ const generateContacts = async (number) => {
   }
 
   try {
-    // await fs.writeFile(
-    //   contactsPath,
-    //   JSON.stringify(newContacts, null, 2),
-    //   'utf-8',
-    // );
     await writeContacts(newContacts);
 
     console.log(`${number} person added the contact list!`);
@@ -25,4 +16,4 @@ const generateContacts = async (number) => {
   }
 };
 
-generateContacts(5);
+generateContacts(3);
